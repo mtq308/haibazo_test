@@ -1,0 +1,27 @@
+.rectangle {
+    border: 1px solid black;
+    position: relative;
+    width: 40vw;
+    height: 70vh;
+}
+
+.points-input {
+    display: flex;
+    align-items: center;
+}
+
+.play-button {
+    width: 100px;
+}
+
+.circle {
+    width: 50px;
+    height: 50px;
+    border: solid 1px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    font-weight: bold;
+}
